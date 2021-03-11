@@ -1,0 +1,3 @@
+# designer-patterns
+
+## Strategy
