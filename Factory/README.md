@@ -1,3 +1,3 @@
-# designer-patterns
+# Designer-Patterns
 
 ## Factory
