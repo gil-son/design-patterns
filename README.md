@@ -2,6 +2,13 @@
 ## Compilation
 
 
+<img src="https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/06/Types-of-Design-Pattern-in-Java.jpg">
+
+
+
+
+
+
 <p>1.Creational Design Pattern</p>
 <ol>
 <li>Factory Pattern</li>
