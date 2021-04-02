@@ -11,8 +11,8 @@
 
 <p>1.Creational Design Pattern</p>
 <ul>
-<li>* [ ] Factory Pattern</li>
-<li>* [x] Abstract Factory Pattern</li>
+<li>* [x] Factory Pattern</li>
+<li>* [ ] Abstract Factory Pattern</li>
 <li>* [ ] Singleton Pattern</li>
 <li>* [ ] Prototype Pattern</li>
 <li>* [ ] Builder Pattern.</li>
