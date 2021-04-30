@@ -15,7 +15,7 @@
 ### Sources
 
 <ul>
-<li>Ex01: <https://oscarzhou.github.io/blog/other/2017/09/13/factory-design-pattern">Tutoriais Points - Design Pattern - Factory Pattern</a></li>
+<li>Ex01: <a href="https://oscarzhou.github.io/blog/other/2017/09/13/factory-design-pattern">Tutoriais Points - Design Pattern - Factory Pattern</a></li>
 <li>Ex02: <a href="https://www.tutorialspoint.com/design_pattern/factory_pattern.htm">Tutoriais Points - Design Pattern - Factory Pattern</a></li>
 </ul>
 
