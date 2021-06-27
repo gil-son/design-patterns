@@ -42,4 +42,24 @@
 <li>* [ ] Visitor Pattern</li>
 </ul>
 
+<p>4. Extras</p>
+<ul>
+<li>* [x] DI (Dependency Injection)</li>
+<li>* [ ] DAO (Data Access Object)</li>
+<li>* [x] DTO (Transfer Object Pattern)</li>
+<li>* [ ] PO (Persistent Object)</li>
+<li>* [ ] BO (Business Object)</li>
+<li>* [ ] VO (Value Object)</li>
+<li>* [ ] POJO (Plain Old Java Object)</li>
+      <ul>
+         <li>POJO Persistence -> PO</li>
+         <li>POJO Transmission Process -> DTO</li>
+         <li>POJO like presentation layer -> VO</li>
+      </ul>
+
+</ul>
+
+
+
+
    
