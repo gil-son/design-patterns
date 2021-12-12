@@ -6,7 +6,7 @@
 
 
 
-
+<hr>
 
 
 <p>1.Creational Design Pattern</p>
