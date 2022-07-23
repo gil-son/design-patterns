@@ -13,7 +13,7 @@
 <ul>
 <li>* [x] Factory Pattern</li>
 <li>* [ ] Abstract Factory Pattern</li>
-<li>* [ ] Singleton Pattern</li>
+<li>* [x] Singleton Pattern</li>
 <li>* [ ] Prototype Pattern</li>
 <li>* [ ] Builder Pattern.</li>
 </ul>
