@@ -33,7 +33,7 @@
 <li>* [ ] Command Pattern</li>
 <li>* [ ] Interpreter Pattern</li>
 <li>* [ ] Iterator Pattern</li>
-<li>* [ ] Mediator Pattern</li>
+<li>* [x] Mediator Pattern</li>
 <li>* [ ] Memento Pattern</li>
 <li>* [ ] Observer Pattern</li>
 <li>* [ ] State Pattern</li>
