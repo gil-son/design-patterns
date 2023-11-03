@@ -35,7 +35,7 @@
 <li>* [ ] Iterator Pattern</li>
 <li>* [x] Mediator Pattern</li>
 <li>* [ ] Memento Pattern</li>
-<li>* [ ] Observer Pattern</li>
+<li>* [x] Observer Pattern</li>
 <li>* [ ] State Pattern</li>
 <li>* [x] Strategy Pattern</li>
 <li>* [ ] Template Pattern</li>
