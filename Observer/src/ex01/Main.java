@@ -1,4 +1,4 @@
-package ex01;
+package src.ex01;
 
 public class Main {
 
