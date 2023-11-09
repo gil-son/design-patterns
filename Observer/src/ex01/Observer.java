@@ -10,6 +10,7 @@ class Observer {
         subject.attach(this);
     }
 
+
     public void update() {
         System.out.println(name + " received an update. New state: " + subject.getState());
     }

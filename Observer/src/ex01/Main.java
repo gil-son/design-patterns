@@ -12,7 +12,6 @@ public class Main {
 
         subject.setState(10); // Notifies and updates observers 1 and 2
         subject.setState(20);
-
         subject2.setState(30); // Notifies and updates observer 3
 
     }
