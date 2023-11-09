@@ -1,4 +1,4 @@
-package ex01;
+package ex02;
 
 
 // Client code that uses the Target interface
@@ -8,7 +8,13 @@ public class Main {
         Adaptee adaptee = new Adaptee();
         Target adapter = new Adapter(adaptee);
 
-        // Calling the request method through the Adapter
+        // Using another existing class with a different interface
+        AnotherAdaptee anotherAdaptee = new AnotherAdaptee();
+        Target anotherAdapter = new AnotherAdapter(anotherAdaptee);
+
+        // Calling the request method through the Adapters
         adapter.request();
+        anotherAdapter.request();
+
     }
 }

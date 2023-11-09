@@ -1,4 +1,4 @@
-package ex01;
+package ex02;
 
 // Adaptee (existing class with a different interface)
 public class Adaptee {
