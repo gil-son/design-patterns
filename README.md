@@ -23,7 +23,7 @@
 <li>* [ ] Bridge Pattern</li>
 <li>* [ ] Composite Pattern</li>
 <li>* [ ] Decorator Pattern</li>
-<li>* [ ] Facade Pattern</li>
+<li>* [x] Facade Pattern</li>
 <li>* [ ] Flyweight Pattern</li>
 <li>* [ ] Proxy Pattern</li>
 </ul>
