@@ -19,7 +19,7 @@
 </ul>
 <p>2. Structural Design Pattern</p>
 <ul>
-<li>* [ ] Adapter Pattern</li>
+<li>* [x] Adapter Pattern</li>
 <li>* [ ] Bridge Pattern</li>
 <li>* [ ] Composite Pattern</li>
 <li>* [ ] Decorator Pattern</li>
