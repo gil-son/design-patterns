@@ -25,7 +25,7 @@
 <li>* [ ] Decorator Pattern</li>
 <li>* [x] Facade Pattern</li>
 <li>* [ ] Flyweight Pattern</li>
-<li>* [ ] Proxy Pattern</li>
+<li>* [x] Proxy Pattern</li>
 </ul>
 <p>3. Behavioral Design Pattern</p>
 <ul>
