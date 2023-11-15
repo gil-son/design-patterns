@@ -30,7 +30,7 @@
 <p>3. Behavioral Design Pattern</p>
 <ul>
 <li>* [ ] Chain Of Responsibility Pattern</li>
-<li>* [ ] Command Pattern</li>
+<li>* [x] Command Pattern</li>
 <li>* [ ] Interpreter Pattern</li>
 <li>* [ ] Iterator Pattern</li>
 <li>* [x] Mediator Pattern</li>
