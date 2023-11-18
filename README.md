@@ -15,7 +15,7 @@
 <li>* [ ] Abstract Factory Pattern</li>
 <li>* [x] Singleton Pattern</li>
 <li>* [ ] Prototype Pattern</li>
-<li>* [ ] Builder Pattern.</li>
+<li>* [x] Builder Pattern.</li>
 </ul>
 <p>2. Structural Design Pattern</p>
 <ul>
