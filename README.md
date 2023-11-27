@@ -31,7 +31,7 @@
 <ul>
 <li>* [ ] Chain Of Responsibility Pattern</li>
 <li>* [x] Command Pattern</li>
-<li>* [ ] Interpreter Pattern</li>
+<li>* [x] Interpreter Pattern</li>
 <li>* [ ] Iterator Pattern</li>
 <li>* [x] Mediator Pattern</li>
 <li>* [ ] Memento Pattern</li>
